@@ -34,18 +34,13 @@
 
 🧪 Requirements
 Python 3.9+
-
 Google Chrome (for automation)
-
 Tesseract OCR (if OCR is used)
-
 Google Drive or Firebase credentials (optional for cloud sync)
 
 🧠 Use Cases
 Students auto-filling scholarship, exam, and college forms
-
 Professionals managing job application portals
-
 HR teams streamlining onboarding paperwork
 
 
